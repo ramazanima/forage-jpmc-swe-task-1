@@ -328,7 +328,8 @@ class App(object):
                 }
             }]
 
-
+def printer():
+    print("This is test function")
 ################################################################################
 #
 # Main
